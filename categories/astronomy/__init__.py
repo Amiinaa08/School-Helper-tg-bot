@@ -1,0 +1,2 @@
+from .black_holes import get_black_holes_information_message
+from .starlight import get_starlight_information_message
