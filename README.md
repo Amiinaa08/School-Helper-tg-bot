@@ -30,3 +30,5 @@ To add a new theme, follow these steps:
 
 By following these steps, you can easily add a new theme to the School Helper Telegram Bot
 and extend its functionality.
+
+Feel free to use the bot and get the best grades! :>
